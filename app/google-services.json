@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "853162149840",
+    "project_id": "new-evahan-gcm"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853162149840:android:aa5432a8e5a0a73a",
+        "android_client_info": {
+          "package_name": "com.evahanpushgcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvs7LCKWVyTmJspjRfUr6yWpoT96Dp_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
