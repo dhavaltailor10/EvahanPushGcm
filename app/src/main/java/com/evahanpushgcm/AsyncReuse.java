@@ -17,9 +17,6 @@ import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
 
-/**
- * Created by Dreamworld Solutions on 22-7-2016.
- */
 public class AsyncReuse extends AsyncTask<Void, Void, Void> {
     public GetResponse getResponse = null;
     String response = "{\"status\":\"0\",\"msg\":\"Sorry something went wrong try again\",\"type\":\"asyncError\"}";
