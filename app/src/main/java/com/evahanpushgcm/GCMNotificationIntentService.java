@@ -23,9 +23,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by Dreamworld Solutions on 22-7-2016.
- */
+
 public class GCMNotificationIntentService extends IntentService {
 
     public static String LSTATUS = "latest_status";
